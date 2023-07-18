@@ -12,5 +12,11 @@
     "@nuxt/devtools": "latest",
     "@types/node": "^18.16.19",
     "nuxt": "^3.6.3"
+  },
+  "dependencies": {
+    "@sidebase/nuxt-session": "^0.2.7"
+  },
+  "volta": {
+    "node": "18.16.1"
   }
 }
